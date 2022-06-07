@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="simmetriya-sb.ru" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="UKK">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="simmetriya-sb.ru">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/simmetriya-sb" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/simmetriya-sb/public_html/bitrix" />
+            <excludedPath path="/simmetriya-sb/public_html/upload" />
+            <excludedPath local="true" path="$PROJECT_DIR$/public_html/bitrix" />
+            <excludedPath local="true" path="$PROJECT_DIR$/public_html/upload" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
